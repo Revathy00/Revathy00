@@ -1,6 +1,6 @@
 # Hi, I'm Revathy 👋
 
-Java Backend Developer with 2+ years building production microservices
+Software Engineer with 2+ years building production microservices
 for global telecom clients (Vodafone, STC, Singtel, StarHub).
 
 🏢 Currently at **6D Technologies**, Bengaluru
@@ -30,7 +30,3 @@ for global telecom clients (Vodafone, STC, Singtel, StarHub).
 | [jwt-oauth2-springboot](#) | Secure authentication with OAuth 2.0 + JWT | Spring Security, JWT |
 
 ---
-
-## 📊 GitHub Stats
-
-![Revathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=revathy00&show_icons=true&theme=default&hide_border=true)
