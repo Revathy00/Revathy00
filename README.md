@@ -4,7 +4,7 @@ Software Engineer with 2+ years building production microservices
 for global telecom clients (Vodafone, STC, Singtel, StarHub).
 
 🏢 Currently at **6D Technologies**, Bengaluru
-📫 revathysep2001@gmail.com | [LinkedIn](https://linkedin.com/in/revathysatheesan)
+📫 revathysep2001@gmail.com | [LinkedIn](https://linkedin.com/in/revathysatheesan) | [GitHub](https://github.com/Revathy00)
 
 ---
 
@@ -64,8 +64,6 @@ for global telecom clients (Vodafone, STC, Singtel, StarHub).
 
 | Project | Description | Stack |
 |---|---|---|
-| [springboot-microservices-demo](#) | Two-service REST architecture with Docker | Java, Spring Boot, Docker |
-| [redis-caching-springboot](#) | API response time optimisation with Redis caching | Spring Boot, Redis |
-| [jwt-oauth2-springboot](#) | Secure authentication with OAuth 2.0 + JWT | Spring Security, JWT |
+| | [springboot-microservices-demo](https://github.com/Revathy00/springboot-microservices-demo) | | Two-service REST architecture with Docker | Java, Spring Boot, Docker |
 
 ---
